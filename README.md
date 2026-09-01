@@ -38,6 +38,28 @@ This project is currently under development.
 
 I'm building it step by step while learning more about financial analysis, forecasting, and data science.
 
+### Data Collection
+
+* Downloaded five years of historical stock data using the yFinance library.
+* Collected datasets for Apple, Microsoft, and Nvidia.
+* Stored the original datasets inside the `data/raw` folder.
+
+### Data Cleaning
+
+* Checked dataset structure, column names, and data types.
+* Converted the Date column into datetime format.
+* Verified that the datasets contain no missing values or duplicate records.
+* Saved the cleaned dataset in the `data/processed` folder.
+
+### Exploratory Data Analysis
+
+* Generated summary statistics using Pandas.
+* Created the first time-series visualization of Apple's closing stock price using Matplotlib.
+* Improved the visualization by adding titles, labels, gridlines, and formatting.
+* Analyzed long-term trends, short-term fluctuations, and significant price movements.
+* Practiced distinguishing observations from possible explanations by recognizing that market events require additional evidence before drawing conclusions.
+
+
 ---
 
 ## Author
