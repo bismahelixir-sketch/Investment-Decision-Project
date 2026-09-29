@@ -30,7 +30,7 @@
 * Completed initial exploratory data analysis using Apple as the baseline dataset.
 * Generated summary statistics and built the first stock price visualization using Matplotlib.
 
-## Day 5 – Return & Volatility Analysis
+### Day 5 – Return & Volatility Analysis
 
 * Calculated daily percentage returns from historical closing prices using vectorized Pandas operations.
 * Applied the `shift(1)` function to align each trading day with the previous day's closing price for return calculations.
