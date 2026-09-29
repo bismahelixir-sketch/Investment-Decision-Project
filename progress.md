@@ -29,3 +29,11 @@
 * Cleaned and validated the datasets by checking data types, missing values, and duplicate records.
 * Completed initial exploratory data analysis using Apple as the baseline dataset.
 * Generated summary statistics and built the first stock price visualization using Matplotlib.
+
+## Day 5 – Return & Volatility Analysis
+
+* Calculated daily percentage returns from historical closing prices using vectorized Pandas operations.
+* Applied the `shift(1)` function to align each trading day with the previous day's closing price for return calculations.
+* Performed descriptive statistical analysis of daily returns, including mean, standard deviation, minimum, and maximum values.
+* Interpreted daily return statistics to evaluate average performance and short-term price volatility.
+* Visualized daily return patterns over time to identify periods of increased market volatility and significant price movements.
