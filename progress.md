@@ -39,7 +39,7 @@
 * Visualized daily return patterns over time to identify periods of increased market volatility and significant price movements.
 
 ### Day 6 – Multi-Company Stock Analysis
-Compared the historical stock prices of Apple, Microsoft, and NVIDIA using a single visualization.
-Calculated daily returns for all three companies.
-Compared daily return patterns to evaluate differences in volatility.
-Observed that NVIDIA had larger daily price fluctuations, while Apple and Microsoft showed relatively more stable movements.
+* Compared the historical stock prices of Apple, Microsoft, and NVIDIA using a single visualization.
+* Calculated daily returns for all three companies.
+* Compared daily return patterns to evaluate differences in volatility.
+* Observed that NVIDIA had larger daily price fluctuations, while Apple and Microsoft showed relatively more stable movements.
