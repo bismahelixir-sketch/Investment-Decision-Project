@@ -43,3 +43,10 @@
 * Calculated daily returns for all three companies.
 * Compared daily return patterns to evaluate differences in volatility.
 * Observed that NVIDIA had larger daily price fluctuations, while Apple and Microsoft showed relatively more stable movements.
+
+### Day 7 – Moving Average Analysis
+* Created 7-day and 21-day moving averages using rolling windows.
+* Learned how rolling statistics smooth noisy financial data.
+* Compared short-term and long-term stock trends using moving averages.
+* Visualized stock prices alongside moving averages.
+* Added moving average features for future forecasting and predictive modeling.
