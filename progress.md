@@ -50,3 +50,10 @@
 * Compared short-term and long-term stock trends using moving averages.
 * Visualized stock prices alongside moving averages.
 * Added moving average features for future forecasting and predictive modeling.
+
+### Day 8 – What I Learned
+* Calculated the Relative Strength Index (RSI) using daily price changes and 14-day rolling averages.
+* Used pandas functions such as diff(), where(), rolling(), and mean() to analyze price movements.
+* Visualized RSI with overbought and oversold thresholds using Matplotlib.
+* Analyzed changes in market momentum and identified periods of unusually strong buying and selling pressure.
+* Learned that RSI can help understand market conditions but cannot reliably predict future stock prices on its own.
